@@ -12,4 +12,4 @@ spring:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver
     username: sa
-    password: '{cipher}63d03e68eddfa4c778ec7cd6ef0f29b1312048c52e79fd10f4bf90b29a368d66'
+    password: '{cipher}AYB/WEY3cja8nYjfpgiV5DE5C+GNu1dvC6S0fP7uRlAvE5Ty4COJ3Vu8KZ4Ia0e5YqCdC8hrUtuwOLM6qxmKL0j+erhNBiW2WhWuNRj0hhGtWGiTEoH5KQyhSUoyO7UGxAT2Llni/Ee4k48EMiyYmSQAdmFSOzfbGrMLYEuPXIJZOyFKakGOv1/u6hlcCuDN13cEfCpAZ0Nwwp0h/BSUUZwhhPOmXLPI5uJf1SYx8LCF4wnHKvOUUTQjuyjDHMfdokypHipMoLvX2NpXKY3AHpCvDsgmGSqGegPZfHhHtJTj+sQC12R1MZwJQFSyX32hA0Fj4cSkW7p4Ro1DPrPDDolyfgOTMH+7qI9AY/3yUnvSWav2tpY8utavqj/EqpyqcUgU4l9aQ8zNAX6OXAccoLtz8jW3iAYEEmrzda1lIBQm0KyJTyUSpuDYUG+6tc0uMSAlzC9v3ukLA3y2yiI8hTXxBO4nHpVc+Ous65fTo0sdtHrfjP2HNfBOhnnnk0nHUIrQM/k03TJRwvEFtgbFVevI6P+936pQ9UgF1IJ1z0I3Fw=='
