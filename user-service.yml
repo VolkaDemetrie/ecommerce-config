@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/ecommerce
+    url: jdbc:mysql://db:3306/ecommerce
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: user
     password: '{cipher}AYCJ/cERKg9urwAEkvXV+gJFTUiXO9xGaKnyvWHZfRDSwTry/+dnpxKMz5BHjLDLlRR+KnATlVS7/IkJLRPIzVwN9k/uHDcO8OAR7A/bLamp/IChiCowJo5oOfN1IML/feDDDyiplXHMhmj10RHCEw+EzJucoKa056sGpIoH0HQUBpf1yprA2MNiAxDM6OJyYH1S7pvTNNWV3G27IXc5U1UYQWxpiuH6dsKYNRClgfWxEjRJi0dT5gWs9e6/nReq87gRlG/e5dSU3np8yilz6M/NC8LjMO1pE3LHozkX4Xf/OD1JJzE4Xui4f+Je6Gq7yFcWnKdN96a3pHyoLBtSMRPa3fxezxF4XQquZKzbXZYjhxu0k014ucUyTu6Fq8Qhr5qS4VL5TpYblqCQ8NEpdOk4NoEByYNa/JFJPUkSTTN3bfQZYQx6zjb1rO0T3rqUxa4z0rleHRG0vP8DTqzcBV+zvXewSm35A9yW3NaD30zfo/u3VXhmgHkT91YWaJihmmvmmMVkboXrSF0zYtDqmAnhvNHyXuSrNMiLq/0IWrU15w==' # test1234
